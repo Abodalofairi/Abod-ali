@@ -1,4 +1,4 @@
-    {
+  {
       "name": "my-dawah-app",
       "private": true,
       "version": "0.0.0",
@@ -25,5 +25,4 @@
         "vite": "^5.1.6"
       }
     }
-    ```
-
+    
