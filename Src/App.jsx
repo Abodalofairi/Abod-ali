@@ -28,7 +28,7 @@
         // In a real application, you would manage this more securely.
         // Make sure to create this user in Firebase Authentication manually.
         const ADMIN_EMAIL = 'abdulrgeb0@gmail.com';
-        const ADMIN_PASSWORD = 'your_admin_password_here'; // **Change this to a strong password!**
+        const ADMIN_PASSWORD = 'abdulrgeb0@gmail.com'; // **Change this to a strong password!**
 
         useEffect(() => {
             // Initialize Firebase
